@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "8178e6edbbf1e3be",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc4dd6e340ad76f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d2454841518fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "util functions/isdigit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79e48d54a7f124ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIST ( СПИСОК ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd7afbfbc4eb994a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/random.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b8897c8d538ac1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "util functions/map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "579f5f62f93f2a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAMEDTUPLE (именованный кортеж).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5bf097aa3f6a33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SET (множество).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c65367ff4eb35449",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b5527342d04d6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f653ce3e3b88a0d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13a4a37aab92724d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7129f0e0b48e7e59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef20c757c8172bd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0e922e7f4c5eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eefda1fdc3d2b90b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SET (множество).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "604cdead5739b878",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SET (множество).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7af9ae15ce5656b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9fe6e5b5619c0e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SET (множество).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5bf097aa3f6a33a",
+  "lastOpenFiles": [
+    "LIST ( СПИСОК ).md",
+    "SET (множество).md",
+    "Untitled.md",
+    "util functions/sorted.md",
+    "util functions/string.lstrip(\"-\").isdigit() - проверка строки на положительное или отрицательное число.md",
+    "NAMEDTUPLE (именованный кортеж).md",
+    "util functions/map.md",
+    "util functions/reversed.md",
+    "modules/copy (copy.deepcopy).md",
+    "modules/random.md",
+    "util functions/zip.md",
+    "util functions/isdigit.md",
+    "util functions/chr & ord (для работы с unicode).md",
+    "TUPLE (кортежи).md",
+    "VARIABLES (ПЕРЕМЕННЫЕ).md",
+    "modules",
+    "GENERATORS (генераторы последовательностей).md",
+    "Welcome.md",
+    "SLICES (срезы).md",
+    "util functions/len.md",
+    "util functions/eval.md",
+    "util functions/enumerate(some_list).md",
+    "Str (string(строка)).md",
+    "util functions/list.md",
+    "util functions",
+    "create a link.md"
+  ]
+}

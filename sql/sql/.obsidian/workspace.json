@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "aa4caeecce80b092",
+    "type": "split",
+    "children": [
+      {
+        "id": "57eac70197656ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebfd2ddb5092abf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDL - управление бд и таблицами (Data definition language).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5afaecd78255fba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRUD (Работа с данными в таблице)..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc4af860d32cd0fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SELECT (выборка данных из бд).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6762fb2b62fbdce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATA TYPES ( типы данных ).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c27e075ed10ab74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDL - управление бд и таблицами (Data definition language).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90c24edae374ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d6146e6ce95ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2297adcabe136549",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "710b8e10a2813521",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4804109445203089",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0744d6aced306404",
+    "type": "split",
+    "children": [
+      {
+        "id": "916ead87deea587d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2940fa27baecbc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DDL - управление бд и таблицами (Data definition language).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18fd44303a60fe7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DDL - управление бд и таблицами (Data definition language).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3412a5694026fa43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "811347172b01d4e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DDL - управление бд и таблицами (Data definition language).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c27e075ed10ab74f",
+  "lastOpenFiles": [
+    "CONSTRAINTS ( ограничения ).md",
+    "DATA TYPES ( типы данных ).md",
+    "CRUD (Работа с данными в таблице)..md",
+    "DDL - управление бд и таблицами (Data definition language).md",
+    "SELECT (выборка данных из бд).md",
+    "Welcome.md"
+  ]
+}

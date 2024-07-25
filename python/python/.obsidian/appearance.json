@@ -1,0 +1,9 @@
+{
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
+}

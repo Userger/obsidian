@@ -8,79 +8,127 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80d2454841518fc6",
+            "id": "0630372885000621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "util functions/isdigit.md",
+                "file": "tuple (кортеж).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79e48d54a7f124ad",
+            "id": "30f3b67e86b5f4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST ( СПИСОК ).md",
+                "file": "TUPLE (кортежи).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cd7afbfbc4eb994a",
+            "id": "0f988b57460a0646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modules/random.md",
+                "file": "set (множество).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b8897c8d538ac1d",
+            "id": "021f5c29ede04c09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "util functions/map.md",
+                "file": "треугольник паскаля.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "579f5f62f93f2a5f",
+            "id": "2b4d405068873e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAMEDTUPLE (именованный кортеж).md",
+                "file": "методы множества (set).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5bf097aa3f6a33a",
+            "id": "58cfc83e96122b91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SET (множество).md",
+                "file": "методы множества (set).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "893806a6f9c3cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "операции над множествами (set).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2479a42d40018c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сравнение множеств (set).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "907145f860e16211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "словарь из списка (dict) (list).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4943c3f6d701d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "set (множество).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SET (множество).md",
+                "file": "set (множество).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SET (множество).md",
+                "file": "set (множество).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SET (множество).md"
+                "file": "set (множество).md"
               }
             }
           }
@@ -207,33 +255,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5bf097aa3f6a33a",
+  "active": "d4943c3f6d701d15",
   "lastOpenFiles": [
+    "получить список уникальных значений.md",
+    "set (множество).md",
+    "методы множества (set).md",
+    "SET (множество) old.md",
     "LIST ( СПИСОК ).md",
-    "SET (множество).md",
-    "Untitled.md",
-    "util functions/sorted.md",
-    "util functions/string.lstrip(\"-\").isdigit() - проверка строки на положительное или отрицательное число.md",
+    "dict (словарь).md",
+    "словарь из списка (dict) (list).md",
+    "сравнение множеств (set).md",
+    "операции над множествами (set).md",
     "NAMEDTUPLE (именованный кортеж).md",
-    "util functions/map.md",
-    "util functions/reversed.md",
-    "modules/copy (copy.deepcopy).md",
-    "modules/random.md",
-    "util functions/zip.md",
-    "util functions/isdigit.md",
-    "util functions/chr & ord (для работы с unicode).md",
-    "TUPLE (кортежи).md",
+    "как создать множество (set).md",
+    "методы списка (list).md",
+    "удалить элементы множества (set) (remove, delete).md",
     "VARIABLES (ПЕРЕМЕННЫЕ).md",
-    "modules",
-    "GENERATORS (генераторы последовательностей).md",
-    "Welcome.md",
+    "про порядок множества (set).md",
+    "что может содержать множество (set).md",
+    "добавить элементы в множество (set)(add).md",
     "SLICES (срезы).md",
-    "util functions/len.md",
-    "util functions/eval.md",
-    "util functions/enumerate(some_list).md",
-    "Str (string(строка)).md",
-    "util functions/list.md",
-    "util functions",
-    "create a link.md"
+    "del (dict).md",
+    "треугольник паскаля.md",
+    "list.md",
+    "TUPLE (кортежи).md",
+    "tuple (кортеж).md",
+    "что может быть элементом кортежа (tuple).md",
+    "util functions/string.lstrip(\"-\").isdigit() - проверка строки на положительное или отрицательное число.md",
+    "util functions/map.md",
+    "modules",
+    "util functions"
   ]
 }

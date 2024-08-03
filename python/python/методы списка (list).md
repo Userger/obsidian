@@ -1,4 +1,4 @@
-[[list]]
+[[list (список)]]
 # Методы списка
 
 - ## insert(index, element)

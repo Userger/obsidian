@@ -10,3 +10,5 @@ print(some_dict)
 ```
 {'world': 2}
 ```
+
+[[dict (словарь)]]

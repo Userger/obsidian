@@ -1,8 +1,0 @@
-{
-  "defaultIM": "xkb:us::eng",
-  "obtainCmd": "/usr/bin/ibus engine",
-  "switchCmd": "/usr/bin/ibus engine xkb:ru::rus",
-  "windowsDefaultIM": "",
-  "windowsObtainCmd": "",
-  "windowsSwitchCmd": ""
-}

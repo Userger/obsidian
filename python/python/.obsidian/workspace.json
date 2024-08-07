@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6dc4dd6e340ad76f",
+        "id": "b1a9d620e70f0cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5a98452db69910",
+            "id": "614775729ce19063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "что может быть ключом словаря (dict).md",
+                "file": "util functions/map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b2667c4cf3977f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "что может быть ключом словаря (dict).md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "что может быть ключом словаря (dict).md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "что может быть ключом словаря (dict).md"
+                "file": "README.md.md"
               }
             }
           }
@@ -146,8 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc5a98452db69910",
+  "active": "6b2667c4cf3977f9",
   "lastOpenFiles": [
+    "util functions/map.md",
+    "README.md.md",
+    "util functions/zip.md",
+    "добавить элементы в множество (set)(add).md",
+    "методы словаря (dict) (methods).md",
+    "установить значение (set) (dict) словарь.md",
+    "что может быть ключом словаря (dict).md",
+    "util functions/sorted.md",
+    "удалить элементы словаря (dict) (delete).md",
+    "del (dict) удалить элемент словаря.md",
     "dict (словарь).md",
     "словарь из списка (dict) (list).md",
     "сравнение множеств (set).md",
@@ -156,8 +179,6 @@
     "tuple (кортеж).md",
     "треугольник паскаля.md",
     "set (множество).md",
-    "что может быть ключом словаря (dict).md",
-    "del (dict) удалить элемент словаря.md",
     "методы списка (list).md",
     "list (список).md",
     "LIST ( СПИСОК ) old.md",
@@ -166,14 +187,6 @@
     "SET (множество) old.md",
     "NAMEDTUPLE (именованный кортеж).md",
     "как создать множество (set).md",
-    "удалить элементы множества (set) (remove, delete).md",
-    "VARIABLES (ПЕРЕМЕННЫЕ).md",
-    "про порядок множества (set).md",
-    "что может содержать множество (set).md",
-    "добавить элементы в множество (set)(add).md",
-    "SLICES (срезы).md",
-    "TUPLE (кортежи).md",
-    "что может быть элементом кортежа (tuple).md",
     "modules",
     "util functions"
   ]

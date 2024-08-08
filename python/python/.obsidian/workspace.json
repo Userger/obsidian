@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b1a9d620e70f0cfc",
+        "id": "b9c39af6e08492a7",
         "type": "tabs",
         "children": [
           {
-            "id": "614775729ce19063",
+            "id": "e23363fcea342836",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "util functions/map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2667c4cf3977f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b2667c4cf3977f9",
+  "active": "e23363fcea342836",
   "lastOpenFiles": [
+    "tuple (кортеж).md",
+    "срезы кортежа (tuple slices).md",
+    "TUPLE (кортежи).md",
+    "создание кортежа (tuple).md",
+    "что может быть элементом кортежа (tuple).md",
+    "как создать множество (set).md",
+    "set (множество).md",
+    "list (список).md",
+    "del (dict) удалить элемент словаря.md",
     "util functions/map.md",
     "README.md.md",
     "util functions/zip.md",
@@ -170,23 +158,14 @@
     "что может быть ключом словаря (dict).md",
     "util functions/sorted.md",
     "удалить элементы словаря (dict) (delete).md",
-    "del (dict) удалить элемент словаря.md",
     "dict (словарь).md",
     "словарь из списка (dict) (list).md",
     "сравнение множеств (set).md",
     "операции над множествами (set).md",
     "методы множества (set).md",
-    "tuple (кортеж).md",
     "треугольник паскаля.md",
-    "set (множество).md",
     "методы списка (list).md",
-    "list (список).md",
     "LIST ( СПИСОК ) old.md",
-    "GENERATORS (генераторы последовательностей).md",
-    "получить список уникальных значений.md",
-    "SET (множество) old.md",
-    "NAMEDTUPLE (именованный кортеж).md",
-    "как создать множество (set).md",
     "modules",
     "util functions"
   ]

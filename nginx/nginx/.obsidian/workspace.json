@@ -1,54 +1,67 @@
 {
   "main": {
-    "id": "8178e6edbbf1e3be",
+    "id": "d3752743cb78664c",
     "type": "split",
     "children": [
       {
-        "id": "05b67806e6fad67e",
+        "id": "ea6f77e5ccd4c99f",
         "type": "tabs",
         "children": [
           {
-            "id": "51c2ea142e77abb3",
+            "id": "2f25ab252a00f146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "хэширование с помощью hashlib.md",
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "435ab28b875783ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start, stop, reload.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c65367ff4eb35449",
+    "id": "8da5bff29cbae1f6",
     "type": "split",
     "children": [
       {
-        "id": "7b5527342d04d6a8",
+        "id": "8b6c6c241a0d43c1",
         "type": "tabs",
         "children": [
           {
-            "id": "f653ce3e3b88a0d0",
+            "id": "f4ebcc199ecce3e4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "13a4a37aab92724d",
+            "id": "e4dd20c4ab94b2a4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "strip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "7129f0e0b48e7e59",
+            "id": "3c066e474f90a853",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
-    "id": "ef20c757c8172bd3",
+    "id": "47389e78ea595130",
     "type": "split",
     "children": [
       {
-        "id": "4a0e922e7f4c5eb6",
+        "id": "4047136ad1e67bff",
         "type": "tabs",
         "children": [
           {
-            "id": "eefda1fdc3d2b90b",
+            "id": "f75cfaa7d182d262",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "хэширование с помощью hashlib.md",
+                "file": "start, stop, reload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "604cdead5739b878",
+            "id": "aa87663aa0df6acc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "хэширование с помощью hashlib.md",
+                "file": "start, stop, reload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e7af9ae15ce5656b",
+            "id": "68ecdff722e7c212",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "b9fe6e5b5619c0e6",
+            "id": "246fae1f031298c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "хэширование с помощью hashlib.md"
+                "file": "start, stop, reload.md"
               }
             }
           }
@@ -146,40 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51c2ea142e77abb3",
+  "active": "435ab28b875783ea",
   "lastOpenFiles": [
-    "добавить элементы в множество (set)(add).md",
-    "методы множества (set).md",
-    "set (множество).md",
-    "методы словаря (dict) (methods).md",
-    "методы словаря (dict) (set).md",
-    "dict (словарь).md",
-    "удалить элементы множества (set) (remove, delete).md",
-    "modules/random.md",
-    "модуль string (punctuation, whitespace).md",
-    "os.urandom(size,  flags=0) - генерация случайных байтов средствами OS.md",
-    "numpy.md",
-    "bytes.md",
-    "Transport Protocol (asyncio).md",
-    "for b in b'some_string'.md",
-    "хэширование с помощью hashlib.md",
-    "util functions/map.md",
-    "avg(iter) среднее.md",
-    "dir(object).md",
-    "locals().md",
-    "with ... as ...  -  менеджер контекста..md",
-    "getattr(object, name, default).md",
-    "синхронность == синхронизированность.md",
-    "socket модуль.md",
-    "Pasted image 20240830194551.png",
-    "ipv4 & ipv6.md",
-    "Pasted image 20240830121556.png",
-    "Pasted image 20240830121456.png",
-    "sum(iterable, start).md",
-    "two_sum() leetcode.md",
-    "Pasted image 20240811184103.png",
-    "целочисленное деление ( ",
-    "modules",
-    "util functions"
+    "Welcome.md",
+    "start, stop, reload.md"
   ]
 }

@@ -1,0 +1,76 @@
+set clipboard=unnamed
+
+map й q
+map ц w
+map у f
+map к p
+map е g
+map н j
+map г l
+map ш u
+map щ y
+map з ;
+map х [
+map ъ ]
+map ф a
+map ы r
+map в s
+map а t
+map п d
+map р h
+map о n
+map л e
+map д i
+map ж o
+map э '
+map я z
+map ч x
+map с c
+map м v
+map и b
+map т k
+map ь m
+map б ,
+map ю .
+map . /
+
+
+
+map Ё ~
+map Й Q
+map Ц W
+map У F
+map К R
+map Е G
+map Н J
+map Г L
+map Ш U
+map Щ Y
+map З :
+map Х {
+map Ъ }
+map Ф A
+map Ы R
+map В S
+map А T
+map П D
+map Р H
+map О N
+map Л E
+map Д I
+map Ж O
+map Э "
+map Я Z
+map Ч X
+map С C
+map М V
+map И B
+map Т K
+map Ь M
+map Б <
+map Ю >
+map , ?
+
+nmap пдц diw
+map щдц yiw
+map мдц viw

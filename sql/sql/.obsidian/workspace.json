@@ -66,9 +66,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5625569d39be54ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "список всех баз данных postgres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "662366b954292494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "список всех баз данных postgres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c49354a88dcff82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "restart identity (truncate table).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe5f7662d42c2bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SELECT (выборка данных из бд).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -134,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDL - управление бд и таблицами (Data definition language).md",
+                "file": "SELECT (выборка данных из бд).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDL - управление бд и таблицами (Data definition language).md",
+                "file": "SELECT (выборка данных из бд).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDL - управление бд и таблицами (Data definition language).md"
+                "file": "SELECT (выборка данных из бд).md"
               }
             }
           }
@@ -195,12 +243,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c27e075ed10ab74f",
+  "active": "fe5f7662d42c2bee",
   "lastOpenFiles": [
+    "order by **** (desc).md",
+    "restart identity (truncate table).md",
+    "список всех баз данных postgres.md",
+    "список таблиц postgres.md",
+    "DDL - управление бд и таблицами (Data definition language).md",
     "CONSTRAINTS ( ограничения ).md",
     "DATA TYPES ( типы данных ).md",
     "CRUD (Работа с данными в таблице)..md",
-    "DDL - управление бд и таблицами (Data definition language).md",
     "SELECT (выборка данных из бд).md",
     "Welcome.md"
   ]
